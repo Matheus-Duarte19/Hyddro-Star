@@ -3,23 +3,21 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Outfit', sans-serif;'
+  font-family: 'Outfit', sans-serif;
 }
 body {
   font-family: Arial, sans-serif;
   background-image: url("Imagens/1.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 
 /* Estilos para o cabeçalho */
 header {
-  background-color: #333;
-  color: #fff;
+  color: #ff0000;
   padding: 20px;
   text-align: center;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(6, 2, 6, 0.5);
 }
 
 /* Estilos para o conteúdo */
@@ -30,13 +28,17 @@ header {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
+  text-align: center;
+  color: #5e265c;
+  
 }
+
 
 footer {
 
   padding: 20px;
   text-align: center;
-  color: #fff;
+  color: #e5de0b;
   text-shadow: 1px 1px 2px black;
 }
 
@@ -47,7 +49,7 @@ footer {
 
 div.img {
   border-radius: 25px;
-  height: 20%;
+  height: 100%;
   text-align: center;
   
 }
@@ -55,9 +57,9 @@ div.img {
 nav.menu-lateral {
   width: 80px;
   height: 100%;
-  background-color: #7886f2;
+  background-color: #7d075e;
   padding: 40px 0 40px 1%;
-  box-shadow: 3px 0 0 #a3a512;
+  box-shadow: 3px 0 0 #ea0b0b;
   
   position: fixed;
   top: 0;
@@ -91,15 +93,15 @@ ul li.item-menu{
 }
 
 ul li.ativo {
-  background-color: #a3a512;
+  background-color: #ea0b0b;
 }
 
 ul li.item-menu:hover{
-  background: #a3a512;
+  background: #ea0b0b;
 }
 
 ul li.item-menu a{
-  color:white;
+  color:#fbff00;
   text-decoration:none;
   font-size: 20px;
   padding:20px 4%;

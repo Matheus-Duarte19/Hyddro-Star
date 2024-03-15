@@ -51,7 +51,7 @@
       <li>Atendimento Personalizado</li>
       <li>Satisfação Garantida</li>
     </ul>
-
+    <wbr>
     <h2>Nossos Serviços</h2>
     <ul>
       <li>Instalação de banheiras de hidromassagem</li>
@@ -68,9 +68,9 @@
     <div class="fundo">
       <h2>Entre em Contato</h2>
       <p>Para mais informações ou para agendar uma consulta, entre em contato conosco:</p>
-      <p>Telefone: (XX) XXXX-XXXX</p>
-      <p>E-mail: info@hyddrostar.com</p>
-      <p>Endereço: [Endereço da empresa]</p>
+      <p>Telefone: (12) 98216-2998</p>
+      <p>E-mail: hyddrostar@gmail.com</p>
+      <p>Endereço: R. Cirene, 295 - Praia Canto O Mar, São Sebastião - SP, 11601-078 </p>
     </div>
   </footer>
 </body>
